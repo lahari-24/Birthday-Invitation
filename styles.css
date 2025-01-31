@@ -1,0 +1,107 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+}
+a {
+    color: #3498db;
+    font-size: 16px;
+}
+a:hover {
+    color: #2980b9;
+}
+.invitation {
+    text-align: center;
+    padding: 50px;
+    background-color: lavenderblush;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px black;
+    max-width: 600px;
+    margin: 50px auto;
+}
+.invitation:hover {
+    transform: scale(1.03);
+}
+.header h1 {
+    font-size: 32px;
+    color: #FF6347;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 20px;
+}
+.greeting {
+    color: #2E8B57;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+h2 {
+    font-size: 18px;
+    color: #8B4513;
+    margin: 20px 0;
+    font-family: 'Merriweather', serif;
+}
+.invitation-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.invitation-img:hover {
+    transform: scale(1.05);
+}
+.button {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 12px 25px;
+    background-color: #3498db;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+}
+.button:hover {
+    background-color: snow;
+}
+.details {
+    padding: 40px;
+    background-color: #008080;
+    max-width: 650px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px black;
+}
+.details h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #edceb8;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 20px;
+}
+.details-info {
+    font-size: 16px;
+    color: whitesmoke;
+    margin: 12px 0;
+    text-align: center;
+}
+.details-info strong {
+    font-weight: bold;
+    color: #e8cbb6;
+}
+.location-img {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+.location-img:hover {
+    transform: scale(1.05);
+}
+.details {
+    padding: 25px;
+    max-width: 100%;
+}
+.button { 
+    font-size: 16px; 
+    padding: 10px 20px;
+}
